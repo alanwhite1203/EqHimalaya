@@ -23,6 +23,10 @@ Himalaya option is appealing to an investor due to the payoff structure as the o
 Due to the complexity of the payoff structure, the option is normally priced via Monte Carlo simulation. 
 
 
-Reference:
-https://finpricing.com/lib/EqHimalaya.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/eqhimalaya/downloads/EqHimalaya-25.pdf
+
 
